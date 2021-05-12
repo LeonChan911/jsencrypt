@@ -1,6 +1,6 @@
 {
-  "name": "jsencrypt",
-  "version": "3.1.0",
+  "name": "mini-programe-jsencrypt",
+  "version": "1.0.0",
   "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
   "main": "bin/jsencrypt.js",
   "module": "lib/index.js",
@@ -21,26 +21,17 @@
     "build": "npm run build:dev && npm run build:prod",
     "serve": "bundle exec jekyll server --config _config.build.yml"
   },
-  "author": "Travis Tidwell <travis@form.io>",
+  "author": "LeonChan911",
   "contributors": [
     {
-      "name": "Travis Tidwell",
-      "email": "travis@form.io",
-      "url": "http://github.com/travist"
-    },
-    {
-      "name": "Antonio",
-      "url": "https://github.com/zoloft"
-    },
-    {
-      "name": "Julio",
-      "url": "https://github.com/jmgaya"
+      "name": "LeonChan911",
+      "url": "https://github.com/LeonChan911"
     }
   ],
-  "homepage": "http://www.travistidwell.com/jsencrypt",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/travist/jsencrypt.git"
+    "url": "git@github.com:LeonChan911/jsencrypt.git"
   },
   "bugs": {
     "url": "http://github.com/travist/jsencrypt/issues"
